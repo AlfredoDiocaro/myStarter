@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "environment": "SERVERLESS",
+        "username": "LocalUser",
+        "roles": [
+            "ADMIN",
+            "MANAGER"
+        ]
+    }
+}
