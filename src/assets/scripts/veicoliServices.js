@@ -2,7 +2,7 @@ import {restURL} from './constants'
 
 export const listVeicoli = () => {
     let prom = new Promise((resolve, reject) => {
-        $.get(restURL+'/veicoli').done(function(data){
+        $.getJSON(restURL+'/veicoli').done(function(data){
             resolve(data);
         }).fail(function(e){
             console.log(e);

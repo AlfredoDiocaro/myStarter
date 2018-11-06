@@ -50,7 +50,10 @@
     "bootstrap": "^4.0.0-beta.2",
     "gsap": "^1.20.4",
     "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "jquery.fancytree": "^2.30.0",
     "normalize.css": "^8.0.0",
+    "pivottable": "^2.23.0",
     "scrollmagic": "^2.0.5"
   }
 }
